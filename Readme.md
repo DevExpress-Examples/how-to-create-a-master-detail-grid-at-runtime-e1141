@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/MasterDetailGrids/Default.aspx) (VB: [Default.aspx.vb](./VB/MasterDetailGrids/Default.aspx.vb))
+* [Default.aspx](./CS/MasterDetailGrids/Default.aspx) (VB: [Default.aspx](./VB/MasterDetailGrids/Default.aspx))
 * [Default.aspx.cs](./CS/MasterDetailGrids/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/MasterDetailGrids/Default.aspx.vb))
 <!-- default file list end -->
 # How to create a master-detail grid at runtime
